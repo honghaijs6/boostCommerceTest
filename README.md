@@ -1,7 +1,7 @@
 hello 
 i am Hong Hai candidate for node js, bellowing is my source code for 6 problems solved
 
-problem 1 : solved at /problemSolved/no1 
+problem 1 : solved at /problemSolved/no1  \n
 problem 2 : solved at /problemSolved/no2 
 problem 3 : solved at /problemSolved/no3 
     test calculateParkingFee : /problemSolved/no3.test.js    (using Jest for test)
